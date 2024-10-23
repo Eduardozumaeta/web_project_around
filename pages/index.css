@@ -1,0 +1,7 @@
+.page {
+  color: var(--main-text-color);
+}
+
+:root {
+  background-color: black;
+}
