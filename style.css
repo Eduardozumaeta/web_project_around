@@ -1,12 +1,1 @@
-body {
-    background-color: #000000; /* Asegura que el fondo de la página sea negro */
-    margin: 0; /* Elimina los márgenes predeterminados del body */
-    padding: 0;
 
-.header_logo {
-  width: 173px;
-  height: 33px;
-  opacity: 1px;
-  margin-bottom: 41px;
-  margin-left: 27px;
-}
